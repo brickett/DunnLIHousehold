@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Files that will be way too big
+.csv
+
 # Folder config file
 Desktop.ini
 
@@ -42,9 +45,6 @@ $RECYCLE.BIN/
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
-Network Trash Folder
-Temporary Items
+# Network Trash Folder
+# Temporary Items
 .apdisk
-
-# Files that will be way too big
-.csv
